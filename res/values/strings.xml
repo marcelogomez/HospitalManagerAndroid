@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HospitalAndroid</string>
+    <string name="doctores">Doctores</string>
+    <string name="pacientes">Pacientes</string>
+    <string name="analisis">Análisis</string>
+    <string name="se_realiza">Se Realiza</string>
+    <string name="reportes">Reportes</string>
+    <string name="atiende">Atiende</string>
+    <string name="direccion_field">Dirección:</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono_field">Teléfono:</string>
+    <string name="telefono">Teléfono</string>
+    <string name="regresar">Regresar</string>
+    <string name="especialidad_field">Especialidad:</string>
+    <string name="especialidad">Especialidad</string>
+    <string name="hint">Nombre, clave, especialidad</string>
+    <string name="analisis_paciente">Análisis Paciente</string>
+    <string name="doctores_paciente">Doctores Paciente</string>
+    <string name="pacientes_analisis">Pacientes Análisis</string>
+    <string name="pacientes_doctor">Pacientes Doctor</string>
+    <string name="clave">Clave</string>
+    <string-array name="drawer_options">
+        <item>Doctores</item>
+        <item>Pacientes</item>
+        <item>Análisis</item>
+        <item>Reportes</item>
+    </string-array>
+</resources>
